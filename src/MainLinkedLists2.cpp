@@ -23,6 +23,5 @@ int main(){
 	//Test merge2 LinkedLists
 
 	//Test reverse LinkedList
-
 	return 0;
-}
+	}
